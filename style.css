@@ -14,7 +14,7 @@ body {
     justify-content: center;
     
     /* Configuração da Imagem de Fundo */
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("assets/infor_games.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("img/infor_games.jpg.png");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
